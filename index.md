@@ -4,7 +4,7 @@ layout: page
 ---
 [Home](https://papatakabookclub.github.io/)
 
-We are excited to announce Papataka Book Club’s November book of the month for the [Gutenberg's Random Picks Challenge](https://github.com/papatakabookclub/BOTM/edit/main/index.md#gutenbergs-random-picks-challenge) is **Murder in the Gunroom by H. Beam Piper** 
+We are excited to announce Papataka Book Club’s November book of the month for the [Gutenberg's Random Picks Challenge](https://papatakabookclub.github.io/BOTM/#stronggutenbergs-random-picks-challengestrong) is **Murder in the Gunroom by H. Beam Piper** 
 
 If you're looking for a new and exciting book to read this month, be sure to check out Murder in the Gunroom.
 
