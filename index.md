@@ -5,4 +5,4 @@ layout: page
 [Home](https://papatakabookclub.github.io/)
 
 
-![BOTM](papatakabookclub.github.io/BOTM/assets/images/NovBOTM.png)
+!(papatakabookclub.github.io/images/NovBOTM.png)
