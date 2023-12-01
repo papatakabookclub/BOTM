@@ -6,7 +6,7 @@ layout: page
 
 We are excited to announce Papataka Book Club’s December book of the month for the [Gutenberg's Random Picks Challenge](https://papatakabookclub.github.io/BOTM/#stronggutenbergs-random-picks-challengestrong) is **The Art of War by Sunzi** 
 
-If you're looking for a new and exciting book to read this month, be sure to check out he Art of War.
+If you're looking for a new and exciting book to read this month, be sure to check out The Art of War.
 
 ![botm](https://papatakabookclub.github.io/BOTM/assets/images/DecBOTM.png)
 
