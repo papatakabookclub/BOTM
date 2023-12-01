@@ -10,7 +10,7 @@ If you're looking for a new and exciting book to read this month, be sure to che
 
 ![botm](https://papatakabookclub.github.io/BOTM/assets/images/DecBOTM.png)
 
-[Free eBook of Murder in the Gunroom](https://www.gutenberg.org/ebooks/17405)
+[Free eBook of The Art of War](https://www.gutenberg.org/ebooks/17405)
 
 Stay updated on the book of the month by joining our [WhatsApp channel](https://whatsapp.com/channel/0029Va4TyGNK5cDNtfz9ca2f)
 
